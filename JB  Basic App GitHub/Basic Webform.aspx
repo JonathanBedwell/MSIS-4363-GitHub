@@ -12,6 +12,8 @@
             <% JB__Basic_App_GitHub.Class1 tp = new JB__Basic_App_GitHub.Class1(); %>
 
  <%=tp.Name %>
+
+            hello world
         </div>
     </form>
 </body>
